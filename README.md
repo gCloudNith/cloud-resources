@@ -9,3 +9,4 @@
 ### GitHub repo
 
 - [Google Cloud Platform](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
+- [Google Cloud Cheatsheet](https://github.com/priyankavergadia/google-cloud-4-words)
