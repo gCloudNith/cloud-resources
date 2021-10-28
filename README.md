@@ -10,6 +10,6 @@
 
 - [Google Cloud Platform](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
 - [Google Cloud Cheatsheet](https://github.com/priyankavergadia/google-cloud-4-words)
-- [GCP Resources](https://github.com/GoogleCloudPlatform/edu-resources)
+- [Curated List of GCP educational resources](https://github.com/GoogleCloudPlatform/edu-resources)
 - [GCP Resource 2](https://github.com/GoogleCloudPlatformTraining)
 - [GCP Resource 3](https://github.com/googleapis/google-cloud-python)
