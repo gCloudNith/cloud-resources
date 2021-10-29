@@ -11,5 +11,15 @@
 - [Google Cloud Platform](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
 - [Google Cloud Cheatsheet](https://github.com/priyankavergadia/google-cloud-4-words)
 - [Curated List of GCP educational resources](https://github.com/GoogleCloudPlatform/edu-resources)
-- [GoogleCloudPlatformTraining](https://github.com/GoogleCloudPlatformTraining)
+- [Google Cloud Platform Training](https://github.com/GoogleCloudPlatformTraining)
 - [Google Cloud Python Client](https://github.com/googleapis/google-cloud-python)
+
+### GCP SketchNotes
+
+- [Google Cloud Fundamentals by Priyanka Vergadia/The Cloud Girl](https://thecloudgirl.dev/)
+
+### Google Cloud - ACE
+
+- [Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)
+- [Associate Cloud Engineer Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLSfexWKtXT2OSFJ-obA4iT3GmzgiOCGvjrT9OfxilWC1yPtmfQ/viewform)
+- [Associate Cloud Engineer - Study Notes by sathish vj](https://docs.google.com/document/d/1u6pXBiGMYj7ZLBN21x6jap11rG6gWk7n210hNnUzrkI/edit)
